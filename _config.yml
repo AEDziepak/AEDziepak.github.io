@@ -22,7 +22,7 @@ repository               : "aedziepak/aedziepak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/econ.png"
+  avatar           : "images/econsig.png"
   name             : "Anthony E. Dziepak"
   pronouns         : # example: "she/her"  
   bio              : Experimental Economics, Spatial Economics, Industrial Organization # Short biography for the left-hand sidebar
