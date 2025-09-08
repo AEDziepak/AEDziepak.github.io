@@ -13,7 +13,7 @@ I am currently using this page to share files with select individuals.
 
 ## Works in Progress related to my dissertation
 
-### [Summary List](###Summary-List) | [Abstracts](### Abstracts)
+### [Summary List](#Summary-List) | [Abstracts](#Abstracts)
 
 My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
@@ -46,7 +46,7 @@ paper that was not included in my original theory dissertation.
 for original theory dissertation, February 1990.
 
 
-### [Summary List](###Summary-List) | [Abstracts](### Abstracts)
+### [Summary List](#Summary-List) | [Abstracts](#Abstracts)
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
