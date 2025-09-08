@@ -13,7 +13,7 @@ I am currently using this site to share work in progress with select individuals
 
 <h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
 
-My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
+My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
 “Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
 job paper, and current dissertation chapter.
@@ -47,7 +47,7 @@ for original theory dissertation, February 1990.
 
 <h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
 
-<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games"</a> 
+<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
 “Location Experiments” 
 
