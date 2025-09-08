@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently using this page to share files with select individuals.
 
-##  <a href="https:\\aedziepak.github.io\files\dziepak-cv.pdf>My CV</a> | <a href="https:\\aedziepak.github.io\files\dziepak-bio.pdf>My Bio</a>
+<h2><a href="https:\\aedziepak.github.io\files\dziepak-cv.pdf>My CV</a> | <a href="https:\\aedziepak.github.io\files\dziepak-bio.pdf>My Bio</a></h2>
 
 ## Works in Progress related to my dissertation
 
