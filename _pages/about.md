@@ -59,9 +59,14 @@ for original theory dissertation, February 1990.
 
 “Location Theory with Tariffs” 
 
-“More Firms in Hotelling’s ‘Stability in Competition’” 
+“More Firms in Hotelling’s ‘Stability in Competition’”
+
+This paper shows that the set of pure strategies equilibria is the complete set of equilibria in the two-stage game of location and price, for three or more firms in circular space. That is, unlike the unit line, mixed strategies do not exist in the two-stage game because a firm can improve its payoff by moving to another location.
 
 <a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">"Spatial Competition with Incomplete Information"</a>
+
+Asymmetric pure-strategy equilibria is found in a location model in which consumers have incomplete information about prices. Two firms are located in a unit line with a uniform distribution of consumers, possessing unitary demand. The consumers must walk to a firm (incurring sunk cost) to obtain full information about prices. After reaching a firm, the consumer decides from which firm to purchase. The following results are obtained: There exists a pure-strategy price equilibrium for location pairs that are neither too close nor too far apart. In addition, all such equilibria exhibit location asymmetry and price dispersion. There is no pure-strategy equilibrium in location and prices; however, conditions are such that mixed-strategies equilibria exist. Also, if firms are given the option to costlessly reveal prices to consumers, the lower-priced firm will reveal its price when firms are sufficiently apart. Finally, in a unit circle market space, a pure-strategy price equilibrium does not exist because there are no asymmetric locations possible for two firms on a unit circle.
+
 
 “Spatial Competition with Multimodal Transportation Costs” 
 
