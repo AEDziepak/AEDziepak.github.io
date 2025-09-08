@@ -55,6 +55,9 @@ for original theory dissertation, February 1990.
 
 <a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results"</a> 
 
+This paper lays out an agenda for location experiments. Preliminary classroom experiments were conducted using paper forms as a proof of concept. Results are presented and discussed. Treatment options were discussed, such as the number of firms, simultaneous vs. sequential play, and continuous play; as well as how each environment could be programmed using computer assistance. Second, the paper discusses a possible follow-up of Gode and Sunder (1993) paper on the efficiency of the oral double auction (ODA) model experiment with machine traders. I discuss whether the efficiency is attributable to the discipline of the institution or the rationality of the human traders. I propose an alternative model, ODA with replacement, to decompose the two effects.
+
+
 “Zero-Intelligence Traders in an Oral Double Auction with Replacement” 
 
 “Location Theory with Tariffs” 
