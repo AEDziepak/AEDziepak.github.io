@@ -11,10 +11,10 @@ I am currently using this page to share files with select individuals.
 
 ### <a href="https:\\aedziepak.github.io\files\dziepak-cv.pdf">My CV</a>  |  <a href="https:\\aedziepak.github.io\files\dziepak-bio.pdf">My Bio</a></h3>
 
-## Works in Progress related to my dissertation
+## Work in Progress related to my dissertation
 
-### Summary List {#summary-list}
-Go to <a href=#abstracts>Abstracts</a>
+<a id="summarylist"> </a>
+### Summary List {#summary-list}  |  <a href=#abstracts>Abstracts</a>
 
 <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
@@ -46,7 +46,7 @@ paper that was not included in my original theory dissertation.
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
 for original theory dissertation, February 1990.
 
-
+<a id="abstracts"> </a>
 ### Abstracts {#abstracts}
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
