@@ -9,9 +9,9 @@ redirect_from:
 
 I am currently using this site to share work in progress with select individuals.
 
-<#summarylist>
+<a id=summarylist>
 
-<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>h3>
+<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
 
 My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
@@ -43,9 +43,9 @@ paper that was not included in my original theory dissertation.
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
 for original theory dissertation, February 1990.
 
-<#abstracts>
+<a id=abstracts>
 
-<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>h3>
+<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
 
 <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games"</a> 
 
