@@ -14,7 +14,7 @@ I am currently using this page to share files with select individuals.
 ## Work in Progress related to my dissertation
 
 <a id="summarylist"> </a>
-### Summary List {#summary-list}  |  <a href=#abstracts>Abstracts</a>
+### Summary List  |  <a href=#abstracts>Abstracts</a>
 
 <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
@@ -47,7 +47,7 @@ paper that was not included in my original theory dissertation.
 for original theory dissertation, February 1990.
 
 <a id="abstracts"> </a>
-### Abstracts {#abstracts}
+### Abstracts
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
