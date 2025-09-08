@@ -16,6 +16,8 @@ I am currently using this page to share files with select individuals.
 <a id="summarylist"> </a>
 ### <a href=#summarylist>Summary List</a>  |  <a href=#abstracts>Abstracts</a>
 
+### Experimental Papers
+
 <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
 “Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
@@ -31,6 +33,8 @@ January 16, 1996.
 in response to paper studied during the Experimental Economics Graduate Student
 Workshop, 1996.
 
+### Theoretical Papers
+
 “Location Theory with Tariffs,” chapter of original theory dissertation, 1996.
 
 “More Firms in Hotelling’s ‘Stability in Competition,’” chapter of original theory dissertation,
@@ -39,9 +43,6 @@ and VPI&SU Working Paper #E95-50, December 1995.
 “<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">Spatial Competition with Incomplete Information</a>,” revision of original theory dissertation
 3rd-year paper and chapter of original theory dissertation, my first job paper,
 and VPI&SU Working Paper #E95-49, November 1995.
-
-“Spatial Competition with Multimodal Transportation Costs,” 1992, an idea for a
-paper that was not included in my original theory dissertation.
 
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
 for original theory dissertation, February 1990.
@@ -65,6 +66,7 @@ This paper lays out an agenda for location experiments. Preliminary classroom ex
 The efficiency of the oral double auction has been attributed to the rationality of human traders participating in the experiment by Gode and Sunders (1993). In this short paper, I modify the experimental method to include replacement agents to demonstrate that the efficiency may be attributable to the discipline of the institution and not reliant on human rationality.
 
 #### “Location Theory with Tariffs”
+Tariffs are added to the traditional model of location theory, which create a discontinuity in the transportation costs. Equilibrium existence is characterized first with countries of identical size, then with a generalized border location. Also, a unit circle market space is considered. The tariff can be viewed as a toll, or an interruption of an otherwise continuous uniform distribution of customers, which greatly alters the outcome from the traditional models. An earlier paper by the author on incomplete information results in mathematically identical equilibrium characteristics.
 
 #### “More Firms in Hotelling’s ‘Stability in Competition’”
 This paper shows that the set of pure strategies equilibria is the complete set of equilibria in the two-stage game of location and price, for three or more firms in circular space. That is, unlike the unit line, mixed strategies do not exist in the two-stage game because a firm can improve its payoff by moving to another location.
@@ -72,8 +74,6 @@ This paper shows that the set of pure strategies equilibria is the complete set 
 #### <a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">"Spatial Competition with Incomplete Information"</a>
 Asymmetric pure-strategy equilibria is found in a location model in which consumers have incomplete information about prices. Two firms are located in a unit line with a uniform distribution of consumers, possessing unitary demand. The consumers must walk to a firm (incurring sunk cost) to obtain full information about prices. After reaching a firm, the consumer decides from which firm to purchase. The following results are obtained: There exists a pure-strategy price equilibrium for location pairs that are neither too close nor too far apart. In addition, all such equilibria exhibit location asymmetry and price dispersion. There is no pure-strategy equilibrium in location and prices; however, conditions are such that mixed-strategies equilibria exist. Also, if firms are given the option to costlessly reveal prices to consumers, the lower-priced firm will reveal its price when firms are sufficiently apart. Finally, in a unit circle market space, a pure-strategy price equilibrium does not exist because there are no asymmetric locations possible for two firms on a unit circle.
 
-#### “Spatial Competition with Multimodal Transportation Costs”
-
 #### “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition’”
-
+This paper explores spatial competition with price search, based on Gabszewicz and Garella's (1987) assumption that the consumers' endowed information is the average price. With transportation costs slightly modified, there exists price equilibria in pure strategies. Also these equilibria must be asymmetric in locations. An equilibrium in both prices and locations, however, does not exist in prure strategies. Also in a unit circle market, no pure-strategy price equilibrium exists under the modified transportation costs. In a unit circle with the old transportation cost assumptions, the model is more complicated.
 
