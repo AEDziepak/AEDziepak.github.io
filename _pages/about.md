@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently using this site to share work in progress with select individuals.
+I am currently using this page to share files with select individuals.
+
+##  My CV | My Bio
+
+## Works in Progress related to my dissertation
 
 <a id=summarylist>
 
-<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
+### <a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a>
 
 My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
@@ -45,34 +49,34 @@ for original theory dissertation, February 1990.
 
 <a id=abstracts>
 
-<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>
+### <a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a>
 
-<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
+#### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
-“Location Experiments” 
+#### “Location Experiments” 
 
-“Location Experiments with Communication” 
+#### “Location Experiments with Communication” 
 
-<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results"</a> 
+#### <a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results"</a> 
 
 This paper lays out an agenda for location experiments. Preliminary classroom experiments were conducted using paper forms as a proof of concept. Results are presented and discussed. Treatment options were discussed, such as the number of firms, simultaneous vs. sequential play, and continuous play; as well as how each environment could be programmed using computer assistance. Second, the paper discusses a possible follow-up of Gode and Sunder (1993) paper on the efficiency of the oral double auction (ODA) model experiment with machine traders. I discuss whether the efficiency is attributable to the discipline of the institution or the rationality of the human traders. I propose an alternative model, ODA with replacement, to decompose the two effects.
 
 
-“Zero-Intelligence Traders in an Oral Double Auction with Replacement” 
+#### “Zero-Intelligence Traders in an Oral Double Auction with Replacement” 
 
-“Location Theory with Tariffs” 
+#### “Location Theory with Tariffs” 
 
-“More Firms in Hotelling’s ‘Stability in Competition’”
+#### “More Firms in Hotelling’s ‘Stability in Competition’”
 
 This paper shows that the set of pure strategies equilibria is the complete set of equilibria in the two-stage game of location and price, for three or more firms in circular space. That is, unlike the unit line, mixed strategies do not exist in the two-stage game because a firm can improve its payoff by moving to another location.
 
-<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">"Spatial Competition with Incomplete Information"</a>
+#### <a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">"Spatial Competition with Incomplete Information"</a>
 
 Asymmetric pure-strategy equilibria is found in a location model in which consumers have incomplete information about prices. Two firms are located in a unit line with a uniform distribution of consumers, possessing unitary demand. The consumers must walk to a firm (incurring sunk cost) to obtain full information about prices. After reaching a firm, the consumer decides from which firm to purchase. The following results are obtained: There exists a pure-strategy price equilibrium for location pairs that are neither too close nor too far apart. In addition, all such equilibria exhibit location asymmetry and price dispersion. There is no pure-strategy equilibrium in location and prices; however, conditions are such that mixed-strategies equilibria exist. Also, if firms are given the option to costlessly reveal prices to consumers, the lower-priced firm will reveal its price when firms are sufficiently apart. Finally, in a unit circle market space, a pure-strategy price equilibrium does not exist because there are no asymmetric locations possible for two firms on a unit circle.
 
 
-“Spatial Competition with Multimodal Transportation Costs” 
+#### “Spatial Competition with Multimodal Transportation Costs” 
 
-“On Gabsewicz and Garella’s ‘Price Search and Spatial Competition’” 
+#### “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition’” 
 
 
