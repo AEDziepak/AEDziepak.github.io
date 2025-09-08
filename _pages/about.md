@@ -15,7 +15,7 @@ I am currently using this page to share files with select individuals.
 
 <a id=summarylist>
 
-### <a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a>
+### <a href=#summarylist>Summary List</a> | [Abstracts](#Abstracts)
 
 My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
@@ -47,9 +47,9 @@ paper that was not included in my original theory dissertation.
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
 for original theory dissertation, February 1990.
 
-<a id=abstracts>
+# abstracts
 
-### <a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a>
+### <a href=#summarylist>Summary List</a> | Abstracts
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
