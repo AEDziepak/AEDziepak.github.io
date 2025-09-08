@@ -9,14 +9,14 @@ redirect_from:
 
 I am currently using this page to share files with select individuals.
 
-##  My CV | My Bio
+##  <a href="https:\\aedziepak.github.io\files\dziepak-cv.pdf>My CV</a> | <a href="https:\\aedziepak.github.io\files\dziepak-bio.pdf>My Bio</a>
 
 ## Works in Progress related to my dissertation
 
 ### Summary List {#summary-list}
-Go to [Abstracts](#abstracts)
+Go to <a href=#abstracts>Abstracts</a>
 
-My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
+<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
 “Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
 job paper, and current dissertation chapter.
@@ -48,7 +48,6 @@ for original theory dissertation, February 1990.
 
 
 ### Abstracts {#abstracts}
-Go to [Summary List](#summary-list)
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a> 
 
