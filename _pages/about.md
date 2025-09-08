@@ -9,7 +9,11 @@ redirect_from:
 
 I am currently using this site to share work in progress with select individuals.
 
-My current experimental dissertation revised draft, "<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">Expreiments in Location Games</a>" Contains (in addition to introduction and literature review chapters), two papers:
+<#summarylist>
+
+<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>h3>
+
+My current experimental dissertation revised draft, <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games,"</a> contains (in addition to introduction and literature review chapters), two papers:
 
 “Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
 job paper, and current dissertation chapter.
@@ -17,7 +21,7 @@ job paper, and current dissertation chapter.
 “Location Experiments with Communication,” VPI&SU Working Paper #E00-03,
 April 2000, current dissertation chapter.
 
-“<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">Location Experiments: Preliminary Results</a>,” ”3rd-year paper” for current dissertation,
+<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation,
 January 16, 1996.
 
 “Zero-Intelligence Traders in an Oral Double Auction with Replacement,” short paper
@@ -39,6 +43,28 @@ paper that was not included in my original theory dissertation.
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
 for original theory dissertation, February 1990.
 
+<#abstracts>
 
+<h3><a href=#summarylist>Summary List</a> | <a href=#abstracts>Abstracts</a></h3>h3>
+
+<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Expreiments in Location Games"</a> 
+
+“Location Experiments” 
+
+“Location Experiments with Communication” 
+
+<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results"</a> 
+
+“Zero-Intelligence Traders in an Oral Double Auction with Replacement” 
+
+“Location Theory with Tariffs” 
+
+“More Firms in Hotelling’s ‘Stability in Competition’” 
+
+<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">"Spatial Competition with Incomplete Information"</a>
+
+“Spatial Competition with Multimodal Transportation Costs” 
+
+“On Gabsewicz and Garella’s ‘Price Search and Spatial Competition’” 
 
 
