@@ -18,7 +18,7 @@ Links to full papers in PDF format
 
 #### Experimental Papers
 
-<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
+<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf" target="_blank">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
 “Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
 job paper, and current dissertation chapter.
@@ -26,7 +26,7 @@ job paper, and current dissertation chapter.
 “Location Experiments with Communication,” VPI&SU Working Paper #E00-03,
 April 2000, current dissertation chapter.
 
-<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation,
+<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf"target="_blank">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation,
 January 16, 1996.
 
 “Zero-Intelligence Traders in an Oral Double Auction with Replacement,” short paper
@@ -40,7 +40,7 @@ Workshop, 1996.
 “More Firms in Hotelling’s ‘Stability in Competition,’” chapter of original theory dissertation,
 and VPI&SU Working Paper #E95-50, December 1995.
 
-“<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf">Spatial Competition with Incomplete Information</a>,” revision of original theory dissertation
+“<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf"target="_blank">Spatial Competition with Incomplete Information</a>,” revision of original theory dissertation
 3rd-year paper and chapter of original theory dissertation, my first job paper,
 and VPI&SU Working Paper #E95-49, November 1995.
 
