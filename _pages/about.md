@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently using this page to share files with select individuals.
-
 ### <a href="https:\\aedziepak.github.io\files\dziepak-cv.pdf" target="_blank">My CV</a>  |  <a href="https:\\aedziepak.github.io\files\dziepak-bio.pdf" target="blank">My Bio</a>
 
-## Work in Progress related to my dissertation
+## Working Papers and Work in Progress related to Spatial Economics
 Links to full papers in PDF format
 
 ### Summary List
@@ -20,38 +18,37 @@ Links to full papers in PDF format
 
 <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf" target="_blank">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
-“Location Experiments,” VPI&SU Working Paper #E99-23, November 1999, my second
-job paper, and current dissertation chapter.
+      “Location Experiments,” VPI&SU Working Paper #E99-23, my second job paper, and current dissertation chapter.
 
-“Location Experiments with Communication,” VPI&SU Working Paper #E00-03,
-April 2000, current dissertation chapter.
+      “Location Experiments with Communication,” VPI&SU Working Paper #E00-03, current dissertation chapter.
 
-<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf" target="_blank">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation,
-January 16, 1996.
+<a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf" target="_blank">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation.
 
-“Zero-Intelligence Traders in an Oral Double Auction with Replacement,” short paper
-in response to paper studied during the Experimental Economics Graduate Student
-Workshop, 1996.
+“Zero-Intelligence Traders in an Oral Double Auction with Replacement,” short paper in response to a paper studied during the Visiting Graduate Student Workshop in Experimental Economics.
 
 #### Theoretical Papers
 
-“Location Theory with Tariffs,” chapter of original theory dissertation, 1996.
+“Location Theory with Tariffs,” chapter of original theory dissertation.
 
 “More Firms in Hotelling’s ‘Stability in Competition,’” chapter of original theory dissertation,
-and VPI&SU Working Paper #E95-50, December 1995.
+and VPI&SU Working Paper #E95-50.
 
 “<a href="https:\\aedziepak.github.io\files\Incomplete Info.pdf" target="_blank">Spatial Competition with Incomplete Information</a>,” revision of original theory dissertation
 3rd-year paper and chapter of original theory dissertation, my first job paper,
-and VPI&SU Working Paper #E95-49, November 1995.
+and VPI&SU Working Paper #E95-49.
 
 “On Gabsewicz and Garella’s ‘Price Search and Spatial Competition,’” 3rd-year paper
-for original theory dissertation, February 1990.
+for original theory dissertation.
 
 
 ### Abstracts
 
 #### <a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf">"Experiments in Location Games"</a>
-Location theory, also known as spatial economics, is a specialization of microeconomic theory that considers markets where economic activity does not occur in a single point in space. The study of firm and consumer behavior in various theoretical spaces, transportation cost, and information assumptions have led to various outcomes, as far back as Hotelling (1929) and earlier. This dissertation introduces classroom experiments to examine some of the basic models of location theory. The first chapter is an introduction to the subfield of location theory, and the second chapter is a literature review with a focus on the development of location games that are relevant to the models investigated in this dissertation. para The third chapter presents experiments on basic Hotelling location models. Results are compared to pure- and mixed-strategy Nash equilibria in models with two to six sellers. For groups of two firms, there is clear evidence of communication for the purpose of influencing the other seller as part of a multiperiod strategy. However, it is unclear whether the motivation for this signaling is to coordinate on a fair outcome, to maximize one’s own payoff, or for deception. Whatever the motivation, a clear pattern emerges, which is not explained by theory. For groups of three firms, there is evidence of risk aversion as players avoid riskier central locations. For groups of four and five firms, results do not readily attain the unique pure-strategy Nash equilibrium due to a previously unexplored coordination problem. In the four-player groups, players choose a combination of pure-strategy focal points and the mixed strategy support; however, players also choose the center of the market, which is not explained by theory. In the six-player case, there are two equilibria in pure strategies, providing an even more complex coordination problem. The distributions of strategies vary systematically as the number of seller increases in a manner consistent with Nash predictions. para In the fourth chapter, I introduce one-way communication in order to facilitate the solution of the coordination problem. This design has the potential to yield a cleaner test of the theory by removing the confounding coordination difficulty. I run groups of two to four firms in a fixed-matching repeated game. In these experiments, one subject in each group is designated to be the communicator. Prior to each round of play, the communicator sends a suggested location set to the other players. If the communicator understands the strategic situation, they can specify locations to the other players that result in an equilibrium outcome. Previous experiments suggest that this kind of “cheap talk” can facilitate equilibrium selection in coordination games. The results show some improvement in the ability of subjects to coordinate on Nash equilibrium play. However, there is considerable heterogeneity across groups. I conclude that one-way communication enhances the ability of subjects to coordinate, but bounded rationality and poor leadership preclude the convergence to equilibrium.
+Location theory, also known as spatial economics, is a specialization of microeconomic theory that considers markets where economic activity does not occur in a single point in space. The study of firm and consumer behavior in various theoretical spaces, transportation cost, and information assumptions have led to various outcomes, as far back as Hotelling (1929) and earlier. This dissertation introduces classroom experiments to examine some of the basic models of location theory. The first chapter is an introduction to the subfield of location theory, and the second chapter is a literature review with a focus on the development of location games that are relevant to the models investigated in this dissertation.
+
+The third chapter presents experiments on basic Hotelling location models. Results are compared to pure- and mixed-strategy Nash equilibria in models with two to six sellers. For groups of two firms, there is clear evidence of communication for the purpose of influencing the other seller as part of a multiperiod strategy. However, it is unclear whether the motivation for this signaling is to coordinate on a fair outcome, to maximize one’s own payoff, or for deception. Whatever the motivation, a clear pattern emerges, which is not explained by theory. For groups of three firms, there is evidence of risk aversion as players avoid riskier central locations. For groups of four and five firms, results do not readily attain the unique pure-strategy Nash equilibrium due to a previously unexplored coordination problem. In the four-player groups, players choose a combination of pure-strategy focal points and the mixed strategy support; however, players also choose the center of the market, which is not explained by theory. In the six-player case, there are two equilibria in pure strategies, providing an even more complex coordination problem. The distributions of strategies vary systematically as the number of seller increases in a manner consistent with Nash predictions.
+
+In the fourth chapter, I introduce one-way communication in order to facilitate the solution of the coordination problem. This design has the potential to yield a cleaner test of the theory by removing the confounding coordination difficulty. I run groups of two to four firms in a fixed-matching repeated game. In these experiments, one subject in each group is designated to be the communicator. Prior to each round of play, the communicator sends a suggested location set to the other players. If the communicator understands the strategic situation, they can specify locations to the other players that result in an equilibrium outcome. Previous experiments suggest that this kind of “cheap talk” can facilitate equilibrium selection in coordination games. The results show some improvement in the ability of subjects to coordinate on Nash equilibrium play. However, there is considerable heterogeneity across groups. I conclude that one-way communication enhances the ability of subjects to coordinate, but bounded rationality and poor leadership preclude the convergence to equilibrium.
 
 #### “Location Experiments”
 This chapter presents results of experiments on basic Hotelling location models. Results are compared to pure- and mixed-strategy Nash equilibria in models with two to six sellers. For groups of two firms, there is clear evidence of communication for the purpose of influencing the other seller as part of a multiperiod strategy. However, it is unclear whether the motivation for this signaling is to coordinate on a fair outcome, to maximize one’s own payoff, or for deception. Whatever the motivation, a clear pattern emerges, which is not explained by theory. For groups of three firms, there is evidence of risk aversion as players avoid riskier central locations. For groups of four and five firms, results do not readily attain the unique pure-strategy Nash equilibrium due to a previously unexplored coordination problem. In the four-player groups, players choose a combination of pure-strategy focal points and the mixed strategy support; however, players also choose the center of the market, which is not explained by theory. In the six-player case, there are two equilibria in pure strategies, providing an even more complex coordination problem. The distributions of strategies vary systematically as the number of seller increases in a manner consistent with Nash predictions.
