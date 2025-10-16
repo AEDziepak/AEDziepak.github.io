@@ -16,11 +16,11 @@ Links to full papers in PDF format
 
 #### Experimental Papers
 
-<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf" target="_blank">"Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
+<a href="https:\\aedziepak.github.io\files\Dziepak_AE_D_2025.pdf" target="_blank">``Experiments in Location Games,"</a> my current experimental dissertation revised draft, contains (in addition to introduction and literature review chapters), two papers:
 
-      “Location Experiments,” VPI&SU Working Paper #E99-23, my second job paper, and current dissertation chapter.
+> “Location Experiments,” VPI&SU Working Paper #E99-23, my second job paper, and current dissertation chapter.
 
-      “Location Experiments with Communication,” VPI&SU Working Paper #E00-03, current dissertation chapter.
+> “Location Experiments with Communication,” VPI&SU Working Paper #E00-03, current dissertation chapter.
 
 <a href="https:\\aedziepak.github.io\files\Experimental preliminary.pdf" target="_blank">"Location Experiments: Preliminary Results,"</a> ”3rd-year paper” for current dissertation.
 
